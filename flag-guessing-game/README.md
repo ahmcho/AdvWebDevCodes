@@ -1,0 +1,2 @@
+# Flag Guessing Game
+The app uses [this API](https://restcountries.eu/rest/v2/all) to get necessary data,  such as country name, country flag and etc. You have to pick one correct flag between 4 different choices.
